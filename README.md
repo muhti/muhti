@@ -12,7 +12,7 @@ Reach out ➡️ [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-t
 
 ## 🧠 What drives me  
 - Exploring cool new tools and methods and it's endless.
-- Not just applying existing methods but I want to create some of my own.  
+- Not just applying existing methods, but I want to create some of my own.  
 - Collaborative projects with deep discussions and eureka moments with the occasional "we are stuck, lets grab some coffee" moments.
 
 ## 🌱 Secretish life goals  
@@ -24,7 +24,7 @@ Reach out ➡️ [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-t
 ## 📊 Languages and tools
 
 ### Programming Languages  
-- 🐍 Python (pandas, polars, numpy, matplotlib, seaborn, scikit-learn, docker, optuna, PyTorch and other)  
+- 🐍 Python (pandas, polars, numpy, matplotlib, seaborn, scikit-learn, docker, optuna, flask, PyTorch and other)  
 - 🦾 R (dplyr, tidyr, ggplot2, plotly, forecast, tidyverse, tidytext)  
 - 🔍 SQL (basic proficiency)  
 
@@ -35,7 +35,7 @@ Reach out ➡️ [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-t
 
 ---
 
-## 🌌 Bio vocabulary
+## 🌌 Bio dictionary
 
 🎓 Learning
 📊 Data
