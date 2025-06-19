@@ -26,7 +26,7 @@ Reach out ➡️ [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-t
 ### Programming Languages  
 - 🐍 Python (pandas, polars, numpy, matplotlib, seaborn, scikit-learn, docker, optuna, flask, PyTorch and other)  
 - 🦾 R (dplyr, tidyr, ggplot2, plotly, forecast, tidyverse, tidytext)  
-- 🔍 SQL (basic proficiency)  
+- 🔍 SQL  
 
 ### Tools and platforms  
 - 📊 Power BI, Looker  
